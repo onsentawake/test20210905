@@ -1,3 +1,4 @@
+gitstatus
 test
 rtaa
 git commit
